@@ -1,7 +1,7 @@
 +++
 date = "2016-02-16T21:04:37-05:00"
 draft = true
-title = "5 signs you could be getting more from your IT data relationship"
+title = "5 signs you could be getting more from your data relationship with IT."
 
 +++
 These days the term "Big Data" is one of the buzziest of the buzzwords out there, reaching such a level that even people outside of IT and data analytics have
@@ -11,7 +11,7 @@ capable of some pretty amazing things totally unrelated to technology and number
 What most people are surprised to find is that when you are able look past all of the jargon and complicated algorithms (which is where the vast majority of the focus seems to be), Big Data is really about raising the level of conversation between the business and IT to create more productive interactions between everyone involved. Below are 5 common signs that, if they sound familiar, indicate your the level of interaction with IT could be providing you more than you are getting now. 
 
 #### 1.) When you receive the result of a data request, you have hours of work before you can decide what action to take.
-Over the past few decades, organizations have trained themselves that the only commodities exchanged between a business stakeholder and IT should be "report requirements" and "reports".  While these descriptive dashboards and trend charts are certainly better than nothing, Big Data allows a business user to directly ask real business questions like...
+Over the past few decades, organizations have trained themselves that the only commodities exchanged between a business stakeholder and IT should be "report requirements" and "reports".  While these descriptive dashboards and trend charts certainly have their value, Big Data allows a business user to directly ask real business questions like...
 
 * How do I reduce customer churn?
 * What staffing do I need to have next Tuesday night?
@@ -26,9 +26,17 @@ Over the past few decades, organizations have trained themselves that the only c
 You'll notice a couple of themes in all of these answers. Firstly, they are all focused on what **will** happen, not what **has** happend. Secondly, they not only give a prediction, but also they provide recommendations to the business stakeholder as to what actions they could / should take. Providing this insight / recommendation pair is infinitely better than simiply pushing a bunch of charts and graphs across the table.
 
 #### 2. When you receive the result of a data request, it is already too old to be useful.
-
+Yes, the information was valuable, but the time to act has already come and gone. 
 #### 3. When you make a data request that is "exactly what you want", you are redirected to a "standard report" that supposedly has "most of what you are asking for."
+This is another facet of the "report-based economy" that organizations have created for themselves. Because the ultimate deliverable is a report and nothing more, things have been streamlined to support the creation of reports and nothing else. 
 
+Think about the characteristics of a report.
+
+* The format will be the same every time.
+* The only thing that changes is the data that is loaded into the report.
+* The data must be 100% correct, as it is represent events that have already happened (no guessing required)
+
+In order support these characteristics, analytics systems have been built with the goal of 100% accuracy and consistent formatting.  As we look to perform more creative and innovative analytics, the existing methodologies will fight us every step of the way. To move into the world of predictive and prescriptive analytics, we need to turn to more flexible systems and processes that allow for creative thinking.
 #### 4. 
 
 #### 5. 
