@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on seethedata</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on seethedata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Feb 2016 21:04:37 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>5 signs you could be getting more from your IT data relationship</title>
+      <link>http://localhost:1313/post/5-signs-you-could-be-getting-more-from-your-IT-data-relationship/</link>
+      <pubDate>Tue, 16 Feb 2016 21:04:37 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/5-signs-you-could-be-getting-more-from-your-IT-data-relationship/</guid>
+      <description>
+
+&lt;p&gt;These days the term &amp;ldquo;Big Data&amp;rdquo; is one of the buzziest of the buzzwords out there, reaching such a level that even people outside of IT and data analytics have
+become desensetized to it. I find this truly unfortunate, especially with regard to those non-IT folks. The reason is that when approached properly, Big Data is
+capable of some pretty amazing things totally unrelated to technology and number crunching.&lt;/p&gt;
+
+&lt;p&gt;What most people are surprised to find is that when you are able look past all of the jargon and complicated algorithms (which is where the vast majority of the focus seems to be), Big Data is really about raising the level of conversation between the business and IT to create more productive interactions between everyone involved. Below are 5 common signs that, if they sound familiar, indicate your the level of interaction with IT could be providing you more than you are getting now.&lt;/p&gt;
+
+&lt;h4 id=&#34;1-when-you-receive-the-result-of-a-data-request-you-have-hours-of-work-before-you-can-decide-what-action-to-take:bd0b2092c0c8cfd665e999156251e8eb&#34;&gt;1.) When you receive the result of a data request, you have hours of work before you can decide what action to take.&lt;/h4&gt;
+
+&lt;p&gt;Over the past few decades, organizations have trained themselves that the only commodities exchanged between a business stakeholder and IT should be &amp;ldquo;report requirements&amp;rdquo; and &amp;ldquo;reports&amp;rdquo;.  While these descriptive dashboards and trend charts are certainly better than nothing, Big Data allows a business user to directly ask real business questions like&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do I reduce customer churn?&lt;/li&gt;
+&lt;li&gt;What staffing do I need to have next Tuesday night?&lt;/li&gt;
+&lt;li&gt;Where should I be spending my marketing budget?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;hellip;and more importantly, receive real business answers from IT like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Here is a list of customers most likely to churn in the next 3 months and recommendations for each one as to what will retain them.&lt;/li&gt;
+&lt;li&gt;Next Tuseday night is predicted to have a 25% increase of foot traffic, so you should schedule 2 additional associates.&lt;/li&gt;
+&lt;li&gt;You should divert spending from campaign X to campaign Y because campaign X has shown no impact in the first 3 days ad campaign Y has raised 10% more revenue during that same period.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You&amp;rsquo;ll notice a couple of themes in all of these answers. Firstly, they are all focused on what &lt;strong&gt;will&lt;/strong&gt; happen, not what &lt;strong&gt;has&lt;/strong&gt; happend. Secondly, they not only give a prediction, but also they provide recommendations to the business stakeholder as to what actions they could / should take. Providing this insight / recommendation pair is infinitely better than simiply pushing a bunch of charts and graphs across the table.&lt;/p&gt;
+
+&lt;h4 id=&#34;2-when-you-receive-the-result-of-a-data-request-it-is-already-too-old-to-be-useful:bd0b2092c0c8cfd665e999156251e8eb&#34;&gt;2. When you receive the result of a data request, it is already too old to be useful.&lt;/h4&gt;
+
+&lt;h4 id=&#34;3-when-you-make-a-data-request-that-is-exactly-what-you-want-you-are-redirected-to-a-standard-report-that-supposedly-has-most-of-what-you-are-asking-for:bd0b2092c0c8cfd665e999156251e8eb&#34;&gt;3. When you make a data request that is &amp;ldquo;exactly what you want&amp;rdquo;, you are redirected to a &amp;ldquo;standard report&amp;rdquo; that supposedly has &amp;ldquo;most of what you are asking for.&amp;rdquo;&lt;/h4&gt;
+
+&lt;h4 id=&#34;4:bd0b2092c0c8cfd665e999156251e8eb&#34;&gt;4.&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
