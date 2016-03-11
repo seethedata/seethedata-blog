@@ -1,10 +1,10 @@
-baseurl = "http://seethedata.github.io/"
+baseurl = "http://www.yourdomain.com/"
 languageCode = "en-us"
-title = "seethedata"
+title = "Icarus"
 # Enable comments by entering your Disqus shortname
-#disqusShortname = "spf13"
+disqusShortname = "spf13"
 # Enable Google Analytics by entering your tracking code
-#googleAnalytics = ""
+googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
@@ -12,17 +12,17 @@ theme = "hugo-icarus-theme"
 
 
 [permalinks]
-    post = ":slug/"
+    post = "/:year/:month/:day/:slug"
 
 
 [params]
     # Tell me who you are
-    author = "Chris Ghiorzi"
-    bio = "Data fiend, Pathfinder, and Field CTO at EMC. All posts are my own"
-    location = "Philadelphia, PA"
+    author = "John Doe"
+    bio = "Blogger - Programmer - Gopher"
+    location = "Earth"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
-    avatar = "images/ghiorzi.jpg"
+    avatar = "css/images/avatar.png"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
@@ -33,31 +33,31 @@ theme = "hugo-icarus-theme"
 #
 # E.g.: "Home" appears before all linked posts in the menu
 # and "Tags" / "Categories" after them.
-#[[params.menu]]
-#    before = true
-#    label  = "Home"
-#    link   = "/"
-#
-#[[params.menu]]
-#    before = false
-#    label  = "Tags"
-#    link   = "tags/"
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
 
-#[[params.menu]]
-#    before = false
-#    label  = "Categories"
-#    link   = "categories/"
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "Categories"
+    link   = "categories/"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/seethedata"
+    follow_button = "https://github.com/digitalcraftsman"
 
 
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # create automatically.
-    github          = "seethedata"
+    github          = "digitalcraftsman"
     bitbucket       = ""
     jsfiddle        = ""
     codepen         = ""
@@ -74,7 +74,7 @@ theme = "hugo-icarus-theme"
     wordpress       = ""
     tumblr          = ""
     xing            = ""
-    linkedin        = "seethedata"
+    linkedin        = ""
     slideshare      = ""
     stackoverflow   = ""
     reddit          = ""
@@ -83,11 +83,11 @@ theme = "hugo-icarus-theme"
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "seethedata"
+    twitter         = "spf13"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    recent_articles = false
-    categories = false
-    tags = false
-    tag_cloud = false
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true

@@ -1,0 +1,10 @@
+baseurl = "http://seethedata.github.io/"
+languageCode = "en-us"
+title = "seethedata"
+
+[params]
+twitter="http://twitter.com/seethedata"
+linkedin="http://linkedin.com/in/seethedata"
+email="seethedata@gmail.com"
+profilepic="images/ghiorzi.jpg"
+subtitle="Data fiend, Pathfinder, and Field CTO at EMC. All posts are my own"
