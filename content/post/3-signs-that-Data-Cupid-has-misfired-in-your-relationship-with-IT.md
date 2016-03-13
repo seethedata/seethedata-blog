@@ -5,7 +5,7 @@ title = "3 signs that Data Cupid has misfired in your relationship with IT"
 disable_profile = true
 disable_widgets = true
 +++
-Note: A special thanks to [Stacey Panco](http://twitter.com/slpanco) for providing the inspiration for this piece.
+Note: A special thanks to [Stacey Panco](https://www.linkedin.com/in/staceylpanco) for providing the inspiration for this piece.
 	<hr/>
 	<center>
 ![Data Cupid](/images/data-cupid.png)
