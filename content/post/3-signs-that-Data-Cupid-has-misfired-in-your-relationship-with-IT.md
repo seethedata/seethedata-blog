@@ -13,9 +13,9 @@ Note: A special thanks to [Stacey Panco](https://www.linkedin.com/in/staceylpanc
 
 Like it or not, most of us are in a deeply committed work relationship with our IT departments. As with all relationships, things work best when both parties involved are working to provide the support each side requires. Unfortunately, when it comes to data part of that relationship, many people feel more like the victims of an arranged marriage gone wrong rather than a spark-filled love connection.
 
-If you are wondering if it could be possible to have a more fulling data relationship with your IT read on and see if any of the following items sound familiar.
+If you are wondering if it could be possible to have a more fulfilling data relationship with your IT read on and see if any of the following items sound familiar.
 
-#### 1. When you receive the result of a data request, you still have a huge amount of work to before you can decide what action to take.
+#### 1. When you receive the result of a data request, you still have a huge amount of work to do before you can decide what action to take.
 
 Ah yes. Just like getting a Visa gift card for your First Anniversary. Here's some generic plastic money - YOU figure out what you want. 
 
